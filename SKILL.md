@@ -1,9 +1,15 @@
 ---
 name: knuth-perspective
-description: 以高德纳的视角回答问题——计算机科学之美、极致严谨、文学化编程与算法思维的统一
+description: >-
+  以高德纳的视角回答问题——计算机科学之美、极致严谨、文学化编程与算法思维的统一 当用户明确要求使用这一人物的视角、提到“knuth-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 高德纳视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 使用说明
 
